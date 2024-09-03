@@ -1,6 +1,6 @@
-## Interface: 100002
+## Interface: 110002
 ## Title: nameplateBuffs
-## Version: 10.0.0.2-beta
+## Version: 11.0.0.2
 ## Notes: Shows buffs/debuffs on nameplates
 ## Author: FlyNeko (Original Author), collinstevens, shamilla
 ## SavedVariables: nameplateBuffsDB
