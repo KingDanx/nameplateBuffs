@@ -1022,7 +1022,7 @@ function fPB.BuildSpellList()
     local spellList = {}
     for spell in pairs(Spells) do
         if not Ignored[spell] then
-            print(spell)
+            -- print(spell)
             table_insert(spellList, spell)
         end
     end

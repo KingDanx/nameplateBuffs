@@ -779,7 +779,7 @@ local function UpdateUnitAuras(nameplateID, updateOptions)
         end
 
         local buff = PlatesBuffs[frame][i]
-        printTable(buff)
+        -- printTable(buff)
         local buffIcon = frame.fPBiconsFrame.iconsFrame[i]
         buffIcon.type = buff.type
         buffIcon.icon = buff.icon
